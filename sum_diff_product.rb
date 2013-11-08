@@ -1,5 +1,7 @@
-numberOne = gets.chomp.to_i
-numberTwo = gets.chomp.to_i
-puts "#{numberOne + numberTwo}"
-puts "#{numberOne - numberTwo}"
-puts "#{numberOne * numberTwo}"
+puts "Enter a number"
+def add(1, 2)
+     return x + y
+     add = gets.chomp.to_i
+end
+
+add(1, 2)
